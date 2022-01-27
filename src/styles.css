@@ -1,0 +1,40 @@
+#root {
+  margin-left: 25%;
+  margin-right: 25%;
+  margin-top: 5%;
+}
+body {
+  background-color: thistle;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+/* #image{
+    max-width: 80%;
+    width: 550px;
+    display: block;
+    margin: auto;
+} */
+#firstpart {
+  text-align: left;
+}
+#firstpart button {
+  margin: 1rem;
+  padding: 0.5rem 0.5rem;
+  border-radius: 0.5rem;
+  background-color: silver;
+}
+ul {
+  margin-left: -5%;
+  margin-right: 30%;
+}
+li {
+  list-style-type: none;
+  border-radius: 0.5rem;
+  border: solid grey 0.1rem;
+  padding: 1rem;
+  margin-bottom: 3%;
+  margin-top: 3%;
+  text-align: left;
+}
